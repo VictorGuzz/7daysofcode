@@ -12,38 +12,22 @@
     <nav class="navbar">
         <header>
             <div class="container">
-                <button>
                     <img src="img/_Button base.svg">
-                </button>
                 <section class="content">
                     <nav class="navigation">
-                         <button class="home">
                             <a href="/" class="texto">Home</a>
-                        </button>
-                         <button class="produtos">
                             <a href="/" class="texto">Produtos</a>
-                        </button>
-                        <button class="recursos">
                             <a href="/" class="texto">Recursos</a>
-                        </button>
-                        <button class="sobre">
                             <a href="/" class="texto">Sobre nós</a>
-                        </button>
                      </nav>
 
                 </section>
                 <nav class="registro">
-                    <button class="entrar">
-                        <a href="/" class="texto">Entrar</a>
-                    </button>
-                    <button class="cadastrar">
-                        <a href="">Cadastrar</a>
-                    </button>
+                        <a href="/" class="entrar texto">Entrar</a>
+                        <a href="/" class="cadastrar">Cadastrar</a>
                 </nav>
             </div>
-            
         </header>
-
     </nav>
 </body>
 </html>
