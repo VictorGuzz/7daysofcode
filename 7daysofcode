@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/reset.css">
+    <link rel="stylesheet" href="css/style.css">
+    <title>OptimusTech</title>
+</head>
+<body>
+    <nav class="navbar">
+        <header>
+            <div class="container">
+                <button>
+                    <img src="img/_Button base.svg">
+                </button>
+                <section class="content">
+                    <nav class="navigation">
+                         <button class="home">
+                            <a href="/" class="texto">Home</a>
+                        </button>
+                         <button class="produtos">
+                            <a href="/" class="texto">Produtos</a>
+                        </button>
+                        <button class="recursos">
+                            <a href="/" class="texto">Recursos</a>
+                        </button>
+                        <button class="sobre">
+                            <a href="/" class="texto">Sobre nós</a>
+                        </button>
+                     </nav>
+
+                </section>
+                <nav class="registro">
+                    <button class="entrar">
+                        <a href="/" class="texto">Entrar</a>
+                    </button>
+                    <button class="cadastrar">
+                        <a href="">Cadastrar</a>
+                    </button>
+                </nav>
+            </div>
+            
+        </header>
+
+    </nav>
+</body>
+</html>
