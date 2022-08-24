@@ -119,6 +119,7 @@ header {
     flex: none;
     order: 0;
     flex-grow: 0;
+    text-decoration: none;
 }
 
 .cadastrar {
@@ -141,11 +142,11 @@ header {
     flex: none;
     order: 0;
     flex-grow: 0;
-}
 
-.cadastrar a {
+    text-decoration: none;
     color: white;
 }
+
 
 .texto {
     width: 70px;
@@ -156,6 +157,7 @@ header {
     font-weight: 500;
     font-size: 19px;
     line-height: 24px;
+    text-decoration: none;
 
 
     color: #667085;
